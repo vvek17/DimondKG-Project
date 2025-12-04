@@ -1,4 +1,4 @@
-Name,Position,Height,Weight,Team,School name
+Name,Position,Height,Weight,Team,School
 Ryan Black,INF,6' 1'',191 lb,Georgia Bulldogs,University of Georgia
 Zach Harris,RHP,6' 1'',193 lb,Georgia Bulldogs,University of Georgia
 Erik Parker,INF,6' 3'',184 lb,Georgia Bulldogs,University of Georgia
@@ -43,3 +43,4 @@ Charlie Jones,IF/OF,6' 3'',226 lb,Georgia Bulldogs,University of Georgia
 Collin Caldwell,LHP,5' 11'',203 lb,Georgia Bulldogs,University of Georgia
 Alexander Sifford,INF,6' 2'',181 lb,Georgia Bulldogs,University of Georgia
 Lucas Morici,RHP,6' 5'',203 lb,Georgia Bulldogs,University of Georgia
+
