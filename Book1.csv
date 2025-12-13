@@ -1,0 +1,836 @@
+Name,Position,Height,Weight,Major,Team,School
+Joe Simpson,Outfield,"6'3""",195 lb,Sports Management,Campbell Fighting Camels,Campbell University
+Dalen Thompson,Outfield,"6'1""",190 lb,Business Administration,Campbell Fighting Camels,Campbell University
+Jonah Oster,Infield,"6'2""",205 lb,Computer Science,Campbell Fighting Camels,Campbell University
+Seth Farni,Outfield,"6'0""",195 lb,Marketing,Campbell Fighting Camels,Campbell University
+Nick Biasi,Left-Handed Pitcher,"5'9""",210 lb,Exercise Science,Campbell Fighting Camels,Campbell University
+Ben Karpowicz,Infield,6'2'',200 lb,Finance,Campbell Fighting Camels,Campbell University
+Cooper Clark,Right-Handed Pitcher,"6'4""",200 lb,Mechanical Engineering,Campbell Fighting Camels,Campbell University
+Andrew Schuldt,Catcher,"5'9""",195 lb,Criminal Justice,Campbell Fighting Camels,Campbell University
+Darnell Parker Jr.,Infield,"6'1""",200 lb,Communications,Campbell Fighting Camels,Campbell University
+Cy Cox,Left-Handed Pitcher,"6'0""",195 lb,Biology,Campbell Fighting Camels,Campbell University
+Lleyton Grubich,Left-Handed Pitcher,"6'0""",205 lb,Health Sciences,Campbell Fighting Camels,Campbell University
+Jackson Thompson,Catcher,"6'2""",215 lb,Information Systems,Campbell Fighting Camels,Campbell University
+Zach Sabers,Right-Handed Pitcher,"6'2""",215 lb,Accounting,Campbell Fighting Camels,Campbell University
+Mason Smith,Right-Handed Pitcher,"6'0""",195 lb,Economics,Campbell Fighting Camels,Campbell University
+Jackson Roberts,Right-Handed Pitcher,"6'1""",205 lb,Data Science,Campbell Fighting Camels,Campbell University
+DJ Akiyama,Infield,"6'1""",220 lb,International Business,Campbell Fighting Camels,Campbell University
+Logen Sutton,Infield,"6'1""",210 lb,Political Science,Campbell Fighting Camels,Campbell University
+David Rossow,Right-Handed Pitcher,"6'3""",220 lb,Communications,Campbell Fighting Camels,Campbell University
+Lukas Schramm,Outfield,"6'3""",215 lb,Management,Campbell Fighting Camels,Campbell University
+Bryce Schares,Right-Handed Pitcher,6'1'',215 lb,Supply Chain Management,Campbell Fighting Camels,Campbell University
+Jarrett Martin,Catcher,"6'3""",220 lb,Psychology,Campbell Fighting Camels,Campbell University
+Joey Morton,Infield,"6'4""",215 lb,Computer Engineering,Campbell Fighting Camels,Campbell University
+Ethan Snyder,Right-Handed Pitcher,"6'4""",235 lb,Physics,Campbell Fighting Camels,Campbell University
+Nathan Waldridge,Left-Handed Pitcher,"6'0""",220 lb,Environmental Science,Campbell Fighting Camels,Campbell University
+Aaron Smigelski,Infield,"6'2""",205 lb,Statistics,Campbell Fighting Camels,Campbell University
+Charlie Meglio,Infield,"6'4""",215 lb,Marketing Analytics,Campbell Fighting Camels,Campbell University
+Jake Murray,Left-Handed Pitcher,"6'1""",215 lb,Criminal Justice,Campbell Fighting Camels,Campbell University
+Peyton Brown,Right-Handed Pitcher,"6'10""",210 lb,Kinesiology,Campbell Fighting Camels,Campbell University
+Andrew Keller,Outfield,"6'3""",215 lb,Human Resource Management,Campbell Fighting Camels,Campbell University
+Zac Martin,Right-Handed Pitcher,"6'4""",200 lb,Civil Engineering,Campbell Fighting Camels,Campbell University
+Dalton Hazlett,Right-Handed Pitcher,"6'1""",215 lb,Operations Management,Campbell Fighting Camels,Campbell University
+Parker Webb,Right-Handed Pitcher,"6'2""",205 lb,Information Technology,Campbell Fighting Camels,Campbell University
+Davis Albert,Infield,"6'1""",205 lb,Applied Mathematics,Campbell Fighting Camels,Campbell University
+Wilson Woodcox,Infield,"6'0""",210 lb,Economics,Campbell Fighting Camels,Campbell University
+Jett Music,Outfield/Right-Handed Pitcher,"6'2""",195 lb,Media Studies,Campbell Fighting Camels,Campbell University
+Kale Scruggs,Right-Handed Pitcher,"6'0""",195 lb,Management Information Systems,Campbell Fighting Camels,Campbell University
+Will Palmer,Left-Handed Pitcher,"6'1""",205 lb,Public Health,Campbell Fighting Camels,Campbell University
+Will Gnibus,Left-Handed Pitcher,"6'1""",205 lb,Finance,Campbell Fighting Camels,Campbell University
+Drew Siegner,Right-Handed Pitcher,"6'0""",215 lb,Data Analytics,Campbell Fighting Camels,Campbell University
+Evans Hendricks,Left-Handed Pitcher,"6'0""",200 lb,Health Administration,Campbell Fighting Camels,Campbell University
+Justin Lebron,INF,6' 2'',180 lb,Sports Management,Alabama Crimson Tide,University Of Alabama
+Kade Snell,OF,6' 1'',210 lb,Business Administration,Alabama Crimson Tide,University Of Alabama
+Riley Quick,RHP,6' 6'',245 lb,Computer Science,Alabama Crimson Tide,University Of Alabama
+Richie Bonomolo Jr.,OF,5' 11'',200 lb,Marketing,Alabama Crimson Tide,University Of Alabama
+Beau Bryans,LHP,6' 0'',195 lb,Exercise Science,Alabama Crimson Tide,University Of Alabama
+Matthew Heiberger,LHP,6' 3'',210 lb,Finance,Alabama Crimson Tide,University Of Alabama
+Tyler Fay,RHP,6' 5'',215 lb,Mechanical Engineering,Alabama Crimson Tide,University Of Alabama
+Bryce Fowler,OF,6' 2'',190 lb,Criminal Justice,Alabama Crimson Tide,University Of Alabama
+Brady Neal,C/INF,5' 10'',190 lb,Communications,Alabama Crimson Tide,University Of Alabama
+Coulson Buchanan,RHP,5' 10'',185 lb,Biology,Alabama Crimson Tide,University Of Alabama
+JT Blackwood,RHP,6' 2'',210 lb,Health Sciences,Alabama Crimson Tide,University Of Alabama
+Luke Vaughn,C,6' 2'',200 lb,Information Systems,Alabama Crimson Tide,University Of Alabama
+Carson Ozmer,RHP,6' 2'',210 lb,Accounting,Alabama Crimson Tide,University Of Alabama
+Coleman Mizell,OF,6' 3'',230 lb,Economics,Alabama Crimson Tide,University Of Alabama
+Jonathan Stevens,RHP,6' 1'',215 lb,Data Science,Alabama Crimson Tide,University Of Alabama
+Will Plattner,C,6' 1'',205 lb,International Business,Alabama Crimson Tide,University Of Alabama
+Will Hodo,INF/OF,6' 3'',225 lb,Political Science,Alabama Crimson Tide,University Of Alabama
+Aeden Finateri,RHP,6' 0'',235 lb,Communications,Alabama Crimson Tide,University Of Alabama
+Zane Adams,LHP,6' 4'',195 lb,Management,Alabama Crimson Tide,University Of Alabama
+Brennen Norton,INF,5' 9'',195 lb,Supply Chain Management,Alabama Crimson Tide,University Of Alabama
+Braylon Myers,RHP,6' 2'',205 lb,Psychology,Alabama Crimson Tide,University Of Alabama
+Aidan Moza,RHP,6' 1'',195 lb,Computer Engineering,Alabama Crimson Tide,University Of Alabama
+Tate Robertson,LHP,6' 0'',170 lb,Physics,Alabama Crimson Tide,University Of Alabama
+Peyton Steele,OF,6' 1'',195 lb,Environmental Science,Alabama Crimson Tide,University Of Alabama
+Garrett Staton,INF,6' 0'',195 lb,Statistics,Alabama Crimson Tide,University Of Alabama
+Danny Heintz,RHP,6' 6'',235 lb,Marketing Analytics,Alabama Crimson Tide,University Of Alabama
+Anthony Pesci,RHP,6' 4'',205 lb,Criminal Justice,Alabama Crimson Tide,University Of Alabama
+Jon Young Jr.,INF,6' 1'',190 lb,Kinesiology,Alabama Crimson Tide,University Of Alabama
+Jason Torres,INF,6' 1'',230 lb,Human Resource Management,Alabama Crimson Tide,University Of Alabama
+Ariston Veasey,RHP/UTL,6' 1'',190 lb,Civil Engineering,Alabama Crimson Tide,University Of Alabama
+Hagan Banks,RHP,6' 4'',215 lb,Operations Management,Alabama Crimson Tide,University Of Alabama
+Andre Modugno,INF/RHP,6' 5'',220 lb,Information Technology,Alabama Crimson Tide,University Of Alabama
+Zach Kittrell,RHP,6' 0'',195 lb,Applied Mathematics,Alabama Crimson Tide,University Of Alabama
+Sam Mitchell,RHP,6' 7'',235 lb,Economics,Alabama Crimson Tide,University Of Alabama
+Sean Griggs,INF,6' 2'',195 lb,Media Studies,Alabama Crimson Tide,University Of Alabama
+Connor Ball,LHP,6' 0'',180 lb,Management Information Systems,Alabama Crimson Tide,University Of Alabama
+Ahmaad Duff,OF,5' 7'',155 lb,Public Health,Alabama Crimson Tide,University Of Alabama
+Jack Ketchum,RHP,6' 3'',210 lb,Finance,Alabama Crimson Tide,University Of Alabama
+Packy Bradley-Cooney,RHP,6' 2'',210 lb,Data Analytics,Alabama Crimson Tide,University Of Alabama
+Jackson Hunter,RHP,6' 3'',190 lb,Health Administration,Alabama Crimson Tide,University Of Alabama
+Carson Kuehne,LHP,6' 5'',195 lb,Public Health,Alabama Crimson Tide,University Of Alabama
+JoJo Williamson,INF,5' 8'',175 lb,Data Analytics,Alabama Crimson Tide,University Of Alabama
+Bobby Alcock,RHP,6' 5'',230 lb,Data Analytics,Alabama Crimson Tide,University Of Alabama
+Nash Wagner,RHP,6' 5'',225 lb,Data Analytics,Alabama Crimson Tide,University Of Alabama
+Connor Lehman,LHP,6' 2'',210 lb,Data Analytics,Alabama Crimson Tide,University Of Alabama
+Ashton Alston,RHP,6' 6'',205 lb,Data Analytics,Alabama Crimson Tide,University Of Alabama
+Egan Lowery,RHP,6' 1'',184 lb,Data Analytics,Alabama Crimson Tide,University Of Alabama
+Justin Nadeau,INF/OF,"6'0""",195 lb,Sports Management,Florida Gators,University Of Florida
+Ty Evans,OF,"6'2""",215 lb,Business Administration,Florida Gators,University Of Florida
+Kyle Jones,OF,"6'3""",185 lb,Computer Science,Florida Gators,University Of Florida
+Cade Kurland,INF,"5'11""",110 lb,Marketing,Florida Gators,University Of Florida
+Blake Cyr,OF/INF,"5'11""",110 lb,Exercise Science,Florida Gators,University Of Florida
+Bobby Boser,INF/OF,"6'1""",215 lb,Finance,Florida Gators,University Of Florida
+Christian Rodriguez,RHP,"6'0""",210 lb,Mechanical Engineering,Florida Gators,University Of Florida
+Luke McNeillie,RHP,"6'3""",190 lb,Criminal Justice,Florida Gators,University Of Florida
+Colby Shelton,INF,"6'0""",205 lb,Communications,Florida Gators,University Of Florida
+Brendan Lawson,INF,"6'3""",215 lb,Biology,Florida Gators,University Of Florida
+Liam Peterson,RHP,"6'5""",220 lb,Health Sciences,Florida Gators,University Of Florida
+Landon Stripling,INF,"6'0""",200 lb,Information Systems,Florida Gators,University Of Florida
+Joshua Whritenour,RHP,"6'2""",195 lb,Accounting,Florida Gators,University Of Florida
+Hayden Yost,OF,"6'1""",195 lb,Economics,Florida Gators,University Of Florida
+Jacob Gomberg,LHP,"5'10""",200 lb,Data Science,Florida Gators,University Of Florida
+Pierce Coppola,LHP,"6'8""",245 lb,International Business,Florida Gators,University Of Florida
+Jake Clemente,RHP,"6'3""",225 lb,Political Science,Florida Gators,University Of Florida
+Caden McDonald,RHP/1B,"6'3""",200 lb,Communications,Florida Gators,University Of Florida
+Jackson Barberi,RHP,"6'4""",180 lb,Management,Florida Gators,University Of Florida
+Billy Barlow,RHP,"6'2""",220 lb,Supply Chain Management,Florida Gators,University Of Florida
+Blake Brookins,OF,"6'5""",225 lb,Psychology,Florida Gators,University Of Florida
+Kolt Myers,INF,"6'2""",190 lb,Computer Engineering,Florida Gators,University Of Florida
+Niko Janssens,LHP,"6'4""",200 lb,Physics,Florida Gators,University Of Florida
+Blaine Rowland,RHP,"6'3""",220 lb,Environmental Science,Florida Gators,University Of Florida
+Luke Heyman,C,"6'4""",220 lb,Statistics,Florida Gators,University Of Florida
+Brody Donay,C,"6'5""",235 lb,Marketing Analytics,Florida Gators,University Of Florida
+Ashton Wilson,OF/INF,"6'0""",200 lb,Criminal Justice,Florida Gators,University Of Florida
+Frank Menendez,LHP,"6'1""",215 lb,Kinesiology,Florida Gators,University Of Florida
+McCall Biemiller,LHP,"6'2""",180 lb,Human Resource Management,Florida Gators,University Of Florida
+Alex Philpott,RHP,"6'6""",200 lb,Civil Engineering,Florida Gators,University Of Florida
+Brock Clayton,C/OF,"6'3""",210 lb,Operations Management,Florida Gators,University Of Florida
+Matthew Jenkins,RHP,"6'6""",195 lb,Information Technology,Florida Gators,University Of Florida
+Mason Laurito,LHP,"6'0""",175 lb,Applied Mathematics,Florida Gators,University Of Florida
+Cole Bullen,C,"5'9""",175 lb,Economics,Florida Gators,University Of Florida
+Felix Ong,RHP,"6'4""",220 lb,Media Studies,Florida Gators,University Of Florida
+Schuyler Sandford,RHP,"6'6""",215 lb,Management Information Systems,Florida Gators,University Of Florida
+Aidan King,RHP,"6'2""",195 lb,Public Health,Florida Gators,University Of Florida
+Carson Montsdeoca,RHP,"6'3""",205 lb,Finance,Florida Gators,University Of Florida
+Ryan Black,INF,6' 1'',191 lb,Sports Management,Georgia Bulldogs,University of Georgia
+Zach Harris,RHP,6' 1'',193 lb,Business Administration,Georgia Bulldogs,University of Georgia
+Erik Parker,INF,6' 3'',184 lb,Computer Science,Georgia Bulldogs,University of Georgia
+Christian Adams,INF/OF,6' 2'',215 lb,Marketing,Georgia Bulldogs,University of Georgia
+Jordan Stephens,RHP,6' 4'',223 lb,Exercise Science,Georgia Bulldogs,University of Georgia
+Brian Curley,RHP,5' 10'',212 lb,Finance,Georgia Bulldogs,University of Georgia
+Davis Chastain,RHP,5' 11'',163 lb,Mechanical Engineering,Georgia Bulldogs,University of Georgia
+Kolby Branch,INF,5' 11'',195 lb,Criminal Justice,Georgia Bulldogs,University of Georgia
+Robbie Burnett,OF/INF,5' 10'',191 lb,Communications,Georgia Bulldogs,University of Georgia
+Henry Hunter,C/OF,6' 2'',217 lb,Biology,Georgia Bulldogs,University of Georgia
+Leighton Finley,RHP,6' 5'',235 lb,Health Sciences,Georgia Bulldogs,University of Georgia
+Asher Sabom,RHP,6' 3'',220 lb,Information Systems,Georgia Bulldogs,University of Georgia
+Trey King,INF,6' 1'',190 lb,Accounting,Georgia Bulldogs,University of Georgia
+Matthew Hoskins,RHP,6' 2'',229 lb,Economics,Georgia Bulldogs,University of Georgia
+Kolten Smith,RHP,6' 3'',210 lb,Data Science,Georgia Bulldogs,University of Georgia
+Cade Brown,INF,6' 2'',212 lb,International Business,Georgia Bulldogs,University of Georgia
+TL Saxon,INF,6' 4'',262 lb,Political Science,Georgia Bulldogs,University of Georgia
+Nolan McCarthy,OF,6' 0'',196 lb,Communications,Georgia Bulldogs,University of Georgia
+Ryland Zaborowski,INF/OF,6' 5'',250 lb,Management,Georgia Bulldogs,University of Georgia
+Devin Obee,OF,2' 2'',215 lb,Supply Chain Management,Georgia Bulldogs,University of Georgia
+JT Quinn,RHP,6' 6'',210 lb,Psychology,Georgia Bulldogs,University of Georgia
+Dylan Goldstein,OF,6' 0'',210 lb,Computer Engineering,Georgia Bulldogs,University of Georgia
+Daniel Jackson,C,6' 0'',203 lb,Physics,Georgia Bulldogs,University of Georgia
+Brian Zeldin,RHP,5' 11'',196 lb,Environmental Science,Georgia Bulldogs,University of Georgia
+Brennan Hudson,C/INF/OF,6' 1'',226 lb,Statistics,Georgia Bulldogs,University of Georgia
+Charlie Goldstein,LHP,6' 1'',200 lb,Marketing Analytics,Georgia Bulldogs,University of Georgia
+Eric Hammond,RHP,6' 4'',193 lb,Criminal Justice,Georgia Bulldogs,University of Georgia
+Logan Spivey,RHP,6' 4'',230 lb,Kinesiology,Georgia Bulldogs,University of Georgia
+Nate Taylor,RHP,6' 2'',213 lb,Human Resource Management,Georgia Bulldogs,University of Georgia
+Tyler McLoughlin,RHP,6' 3'',229 lb,Civil Engineering,Georgia Bulldogs,University of Georgia
+Paul Farley,RHP,6' 1'',201 lb,Operations Management,Georgia Bulldogs,University of Georgia
+Tre Phelps,INF/OF,6' 2'',204 lb,Information Technology,Georgia Bulldogs,University of Georgia
+Zach Brown,RHP,6' 5'',217 lb,Applied Mathematics,Georgia Bulldogs,University of Georgia
+DJ Radtke,RHP,6' 3'',191 lb,Economics,Georgia Bulldogs,University of Georgia
+Wyatt Land,RHP,6' 3'',191 lb,Media Studies,Georgia Bulldogs,University of Georgia
+Justin Byrd,RHP,6' 2'',196 lb,Management Information Systems,Georgia Bulldogs,University of Georgia
+Alton Davis II,LHP,6' 5'',181 lb,Public Health,Georgia Bulldogs,University of Georgia
+Luke Wiltrakis,RHP,6' 3'',219 lb,Finance,Georgia Bulldogs,University of Georgia
+Slate Alford,INF,6' 3'',236 lb,Data Analytics,Georgia Bulldogs,University of Georgia
+Bradley Stewart,LHP,6' 3'',225 lb,Health Administration,Georgia Bulldogs,University of Georgia
+Charlie Jones,IF/OF,6' 3'',226 lb,Health Administration,Georgia Bulldogs,University of Georgia
+Collin Caldwell,LHP,5' 11'',203 lb,Health Administration,Georgia Bulldogs,University of Georgia
+Alexander Sifford,INF,6' 2'',181 lb,Health Administration,Georgia Bulldogs,University of Georgia
+Lucas Morici,RHP,6' 5'',203 lb,Health Administration,Georgia Bulldogs,University of Georgia
+Cade Arrambide,Catcher,6'3'',204 lb,Sports Management,LSU Tigers,LSU
+Chris Stanfield,Outfield,6'2'',195 lb,Business Administration,LSU Tigers,LSU
+Steven Milam,Infield,5'8'',177 lb,Computer Science,LSU Tigers,LSU
+Tanner Reaves,Infield,6'1'',165 lb,Marketing,LSU Tigers,LSU
+Derek Curiel,Outfield,6'2'',182 lb,Exercise Science,LSU Tigers,LSU
+Jake Brown,Outfield,6'2'',205 lb,Finance,LSU Tigers,LSU
+Gavin Guidry,Right-Handed Pitcher,6'2'',182 lb,Mechanical Engineering,LSU Tigers,LSU
+William Schmidt,Right-Handed Pitcher,6'4'',188 lb,Criminal Justice,LSU Tigers,LSU
+Brayden Simpson,Infield,6'1'',190 lb,Communications,LSU Tigers,LSU
+John Pearson,Outfield / Third Base,6'0'',248 lb,Biology,LSU Tigers,LSU
+Edward Yamin IV,Catcher / First Base,6'5'',220 lb,Health Sciences,LSU Tigers,LSU
+Daniel Harden,Outfield,6'2'',205 lb,Information Systems,LSU Tigers,LSU
+Ethan Clauss,Infield,6'2'',190 lb,Accounting,LSU Tigers,LSU
+Mavrick Rizy,Right-Handed Pitcher,6'9'',253 lb,Economics,LSU Tigers,LSU
+Mason Braun,Outfield / First Base,6'0'',195 lb,Data Science,LSU Tigers,LSU
+Casan Evans,Right-Handed Pitcher,6'2'',194 lb,International Business,LSU Tigers,LSU
+Cooper Moore,Right-Handed Pitcher,6'1'',200 lb,Political Science,LSU Tigers,LSU
+William Patrick,Outfield,6'2'',200 lb,Communications,LSU Tigers,LSU
+Seth Dardar,Infield,6'2'',220 lb,Management,LSU Tigers,LSU
+Omar Serna Jr.,Catcher,6'2'',225 lb,Supply Chain Management,LSU Tigers,LSU
+Zac Cowan,Right-Handed Pitcher,5'11'',203 lb,Psychology,LSU Tigers,LSU
+Jaden Noot,Right-Handed Pitcher,6'4'',228 lb,Computer Engineering,LSU Tigers,LSU
+Danny Lachenmayer,Left-Handed Pitcher,6'3'',195 lb,Physics,LSU Tigers,LSU
+Cooper Williams,Left-Handed Pitcher,6'4'',200 lb,Environmental Science,LSU Tigers,LSU
+Dax Dathe,Right-Handed Pitcher,6'3'',214 lb,Statistics,LSU Tigers,LSU
+Jack Ruckert,Infield,6'1'',185 lb,Marketing Analytics,LSU Tigers,LSU
+Zach Yorke,Infield,6'2'',295 lb,Criminal Justice,LSU Tigers,LSU
+Santiago Garcia,Left-Handed Pitcher,6'0'',180 lb,Kinesiology,LSU Tigers,LSU
+Reagan Ricken,Right-Handed Pitcher,6'5'',220 lb,Human Resource Management,LSU Tigers,LSU
+Ethan Plog,Left-Handed Pitcher,6'1'',185 lb,Civil Engineering,LSU Tigers,LSU
+Jonah Aase,Left-Handed Pitcher,6'1'',190 lb,Operations Management,LSU Tigers,LSU
+Grant Fontenot,Right-Handed Pitcher,6'3'',225 lb,Information Technology,LSU Tigers,LSU
+DJ Primeaux,Left-Handed Pitcher,5'10'',201 lb,Applied Mathematics,LSU Tigers,LSU
+Connor Benge,Right-Handed Pitcher,6'0'',194 lb,Economics,LSU Tigers,LSU
+Trent Caraway,Infield,6'2'',203 lb,Media Studies,LSU Tigers,LSU
+Deven Sheerin,Right-Handed Pitcher,6'5'',245 lb,Management Information Systems,LSU Tigers,LSU
+Ryler Smart,Left-Handed Pitcher,6'4'',236 lb,Public Health,LSU Tigers,LSU
+Zion Theophilus,Right-Handed Pitcher,6'2'',196 lb,Finance,LSU Tigers,LSU
+Marcos Paz,Right-Handed Pitcher,6'2'',220 lb,Data Analytics,LSU Tigers,LSU
+Vance Sheahan,Infield,"6'3""",185 lb,Sports Management,Miami Hurricanes,University of Miami
+Derek Williams,Outfield,"6'4""",205 lb,Business Administration,Miami Hurricanes,University of Miami
+Jake Ogden,Infield,"6'2""",195 lb,Computer Science,Miami Hurricanes,University of Miami
+Brandon DeGoti,Infield,"6'0""",180 lb,Marketing,Miami Hurricanes,University of Miami
+Max Galvin,Outfield,"6'1""",205 lb,Exercise Science,Miami Hurricanes,University of Miami
+Lyndon Glidewell,Right-handed pitcher,"6'3""",180 lb,Finance,Miami Hurricanes,University of Miami
+Rob Evans,Left-handed pitcher,"6'4""",230 lb,Mechanical Engineering,Miami Hurricanes,University of Miami
+Alex Sosa,Catcher,"6'3""",205 lb,Criminal Justice,Miami Hurricanes,University of Miami
+Daniel Cuvet,Infield,"6'2""",235 lb,Communications,Miami Hurricanes,University of Miami
+Cian Copeland,Infield/Outfield,"6'5""",211 lb,Biology,Miami Hurricanes,University of Miami
+Fabio Peralta,Outfield,"6'0""",185 lb,Health Sciences,Miami Hurricanes,University of Miami
+TJ Coats,Right-handed pitcher,"6'4""",213 lb,Information Systems,Miami Hurricanes,University of Miami
+Michael Taylor,Right-handed pitcher,"6'3""",225 lb,Accounting,Miami Hurricanes,University of Miami
+Patrick Bradley-Cooney,Right-handed pitcher,"6'2""",200 lb,Economics,Miami Hurricanes,University of Miami
+Tate DeRias,Right-handed pitcher,"6'1""",188 lb,Data Science,Miami Hurricanes,University of Miami
+Jackson Hugus,Catcher,"6'1""",205 lb,International Business,Miami Hurricanes,University of Miami
+Brylan West,Infield,"6'1""",240 lb,Political Science,Miami Hurricanes,University of Miami
+Ryan Bilka,Right-handed pitcher,"6'4""",202 lb,Communications,Miami Hurricanes,University of Miami
+Michael Torres,Outfield,"6'5""",185 lb,Management,Miami Hurricanes,University of Miami
+Erick Peralta,Right-handed pitcher,"6'3""",240 lb,Supply Chain Management,Miami Hurricanes,University of Miami
+Nick Robert,Right-handed pitcher,"5'10""",230 lb,Psychology,Miami Hurricanes,University of Miami
+Alonzo Alvarez,Catcher,"6'4""",200 lb,Computer Engineering,Miami Hurricanes,University of Miami
+Jake Lodgek,Right-handed pitcher,"6'4""",180 lb,Physics,Miami Hurricanes,University of Miami
+Michael Fernandez,Left-handed pitcher,"6'2""",170 lb,Environmental Science,Miami Hurricanes,University of Miami
+Eddie Zaun,Infield,"6'3""",200 lb,Statistics,Miami Hurricanes,University of Miami
+Jailen Watkins,Infield,"6'2""",160 lb,Marketing Analytics,Miami Hurricanes,University of Miami
+Mario Magana,Outfield,"6'0""",190 lb,Criminal Justice,Miami Hurricanes,University of Miami
+Jake Dorn,Left-handed pitcher,"6'1""",235 lb,Kinesiology,Miami Hurricanes,University of Miami
+Brixton Lofgren,Right-handed pitcher,"6'3""",183 lb,Human Resource Management,Miami Hurricanes,University of Miami
+Donavan Jeffery,Infield,"6'4""",225 lb,Civil Engineering,Miami Hurricanes,University of Miami
+Dylan Dubovik,Outfield/Right-handed pitcher,"6'1""",200 lb,Operations Management,Miami Hurricanes,University of Miami
+Bennett Gary,Outfield,"6'4""",160 lb,Information Technology,Miami Hurricanes,University of Miami
+Mason Greenhouse,Outfield,"6'3""",190 lb,Applied Mathematics,Miami Hurricanes,University of Miami
+Jack Durso,Left-handed pitcher,"6'7""",205 lb,Economics,Miami Hurricanes,University of Miami
+AJ Ciscar,Right-handed pitcher,"5'10""",209 lb,Media Studies,Miami Hurricanes,University of Miami
+Lonzo Drummond,Left-handed pitcher,"6'3""",165 lb,Management Information Systems,Miami Hurricanes,University of Miami
+Sebastian Santos-Olson,Left-handed pitcher,"6'1""",225 lb,Public Health,Miami Hurricanes,University of Miami
+Gabriel Milano,Infield,"6'5""",190 lb,Finance,Miami Hurricanes,University of Miami
+Lazaro Collera,Right-handed pitcher,"6'4""",225 lb,Data Analytics,Miami Hurricanes,University of Miami
+Jacob Parker,OF,"6'3""",220 lb,Sports Management,Mississippi State Bulldog,Mississippi State University
+Ace Reese,INF,"6'4""",220 lb,Business Administration,Mississippi State Bulldog,Mississippi State University
+Tomas Valincius,LHP,"6'2""",225 lb,Computer Science,Mississippi State Bulldog,Mississippi State University
+Aidan Teel,OF,"6'0""",200 lb,Marketing,Mississippi State Bulldog,Mississippi State University
+James Nunnallee,OF,"6'1""",190 lb,Exercise Science,Mississippi State Bulldog,Mississippi State University
+Reed Stallman,1B/OF,"6'3""",220 lb,Finance,Mississippi State Bulldog,Mississippi State University
+Charlie Foster,LHP,"6'4""",205 lb,Mechanical Engineering,Mississippi State Bulldog,Mississippi State University
+Ryder Woodson,INF,"6'3""",190 lb,Criminal Justice,Mississippi State Bulldog,Mississippi State University
+Drew Wyers,INF,"6'2""",200 lb,Communications,Mississippi State Bulldog,Mississippi State University
+Duke Stone,RHP,"6'5""",235 lb,Biology,Mississippi State Bulldog,Mississippi State University
+Chone James,INF/UTL,"6'0""",185 lb,Health Sciences,Mississippi State Bulldog,Mississippi State University
+William Kirk,LHP,"6'2""",205 lb,Information Systems,Mississippi State Bulldog,Mississippi State University
+Vytas Valincius,OF,"6'4""",230 lb,Accounting,Mississippi State Bulldog,Mississippi State University
+Tanner Beliveau,RHP/UTL,"6'3""",225 lb,Economics,Mississippi State Bulldog,Mississippi State University
+Braden Booth,RHP,"6'2""",200 lb,Data Science,Mississippi State Bulldog,Mississippi State University
+Parker Rhodes,RHP,"6'1""",185 lb,International Business,Mississippi State Bulldog,Mississippi State University
+Noah Sullivan,UTL/RHP,"6'1""",215 lb,Political Science,Mississippi State Bulldog,Mississippi State University
+Andrew Raymond,C,"6'1""",205 lb,Communications,Mississippi State Bulldog,Mississippi State University
+Maddox Miller,LHP,"6'4""",185 lb,Management,Mississippi State Bulldog,Mississippi State University
+Kevin Milewski,C,"6'5""",235 lb,Supply Chain Management,Mississippi State Bulldog,Mississippi State University
+Nick Frontino,INF,"6'3""",205 lb,Psychology,Mississippi State Bulldog,Mississippi State University
+Jackson Owen,C,"5'10""",210 lb,Computer Engineering,Mississippi State Bulldog,Mississippi State University
+Jack Bauer,LHP,"6'4""",195 lb,Physics,Mississippi State Bulldog,Mississippi State University
+Chris Billingsley Jr.,RHP,"6'4""",205 lb,Environmental Science,Mississippi State Bulldog,Mississippi State University
+Peter Mershon,UTL,"6'2""",205 lb,Statistics,Mississippi State Bulldog,Mississippi State University
+Ryan McPherson,RHP,"6'3""",205 lb,Marketing Analytics,Mississippi State Bulldog,Mississippi State University
+Maddox Webb,RHP,"6'2""",195 lb,Criminal Justice,Mississippi State Bulldog,Mississippi State University
+Jackson Logar,RHP,"6'0""",215 lb,Kinesiology,Mississippi State Bulldog,Mississippi State University
+Charlie Wortham,UTL,"6'1""",205 lb,Human Resource Management,Mississippi State Bulldog,Mississippi State University
+Peyton Fowler,RHP,"6'3""",195 lb,Civil Engineering,Mississippi State Bulldog,Mississippi State University
+Blake Bevis,1B/OF,"6'4""",230 lb,Operations Management,Mississippi State Bulldog,Mississippi State University
+Gehrig Frei,INF/OF,"6'1""",210 lb,Information Technology,Mississippi State Bulldog,Mississippi State University
+Ben Davis,RHP,"6'4""",230 lb,Applied Mathematics,Mississippi State Bulldog,Mississippi State University
+Tyler Pitzer,RHP,"6'3""",205 lb,Economics,Mississippi State Bulldog,Mississippi State University
+Brendan Sweeney,RHP,"6'7""",210 lb,Media Studies,Mississippi State Bulldog,Mississippi State University
+Bryce Chance,OF,"5'10""",210 lb,Management Information Systems,Mississippi State Bulldog,Mississippi State University
+Patrick Spencer Jr.,RHP,"6'3""",215 lb,Public Health,Mississippi State Bulldog,Mississippi State University
+Jack Gleason,RHP,"6'1""",200 lb,Finance,Mississippi State Bulldog,Mississippi State University
+Dane Burns,LHP,"6'5""",215 lb,Data Analytics,Mississippi State Bulldog,Mississippi State University
+JT Schnoor,RHP,"6'4""",225 lb,Health Administration,Mississippi State Bulldog,Mississippi State University
+Gatlin Sanders,INF,"5'11""",211 lb,Health Administration,Mississippi State Bulldog,Mississippi State University
+Dean Curley,INF,6' 3'',218 lb,Sports Management,Tennessee Volunteers,University of Tennessee
+Ariel Antigua,INF,5' 8'',180 lb,Business Administration,Tennessee Volunteers,University of Tennessee
+Manny Marin,INF,6' 1'',181 lb,Computer Science,Tennessee Volunteers,University of Tennessee
+Cannon Peebles,C,5' 11'',190 lb,Marketing,Tennessee Volunteers,University of Tennessee
+Gavin Kilen,INF,5' 11'',187 lb,Exercise Science,Tennessee Volunteers,University of Tennessee
+Nate Snead,RHP,6' 2'',212 lb,Finance,Tennessee Volunteers,University of Tennessee
+Jay Abernathy,OF/INF,5' 10'',177 lb,Mechanical Engineering,Tennessee Volunteers,University of Tennessee
+Hunter Ensley,OF,6' 1'',197 lb,Criminal Justice,Tennessee Volunteers,University of Tennessee
+Chris Newstrom,INF/OF,6' 2'',204 lb,Communications,Tennessee Volunteers,University of Tennessee
+Andrew Fischer,INF,6' 1'',210 lb,Biology,Tennessee Volunteers,University of Tennessee
+Liam Doyle,LHP,6' 2'',220 lb,Health Sciences,Tennessee Volunteers,University of Tennessee
+Reese Chapman,OF,6' 1'',224 lb,Information Systems,Tennessee Volunteers,University of Tennessee
+Blake Grimmer,UTL,6' 3'',208 lb,Accounting,Tennessee Volunteers,University of Tennessee
+Hunter High,OF/INF,6' 0'',199 lb,Economics,Tennessee Volunteers,University of Tennessee
+Dalton Bargo,UTL,6' 1'',195 lb,Data Science,Tennessee Volunteers,University of Tennessee
+Thomas Crabtree,RHP,6' 4'',202 lb,International Business,Tennessee Volunteers,University of Tennessee
+Austin Breedlove,RHP,6' 2'',200 lb,Political Science,Tennessee Volunteers,University of Tennessee
+Andrew Behnke,LHP,5' 10'',183 lb,Communications,Tennessee Volunteers,University of Tennessee
+Colby Backus,OF,6' 4'',230 lb,Management,Tennessee Volunteers,University of Tennessee
+Tegan Kuhns,RHP,6' 3'',189 lb,Supply Chain Management,Tennessee Volunteers,University of Tennessee
+Marcus Phillips,RHP,6' 4'',246 lb,Psychology,Tennessee Volunteers,University of Tennessee
+Brandon Arvidson,LHP,6' 5'',215 lb,Computer Engineering,Tennessee Volunteers,University of Tennessee
+Stone Lawless,C/1B,6' 2'',219 lb,Physics,Tennessee Volunteers,University of Tennessee
+Ryan Combs,RHP,6' 3'',184 lb,Environmental Science,Tennessee Volunteers,University of Tennessee
+Aidan Hayse,RHP,6' 3'',191 lb,Statistics,Tennessee Volunteers,University of Tennessee
+Levi Clark,UTL,6' 1'',211 lb,Marketing Analytics,Tennessee Volunteers,University of Tennessee
+Austin Hunley,RHP,6' 3'',199 lb,Criminal Justice,Tennessee Volunteers,University of Tennessee
+Tate Strickland,RHP,6' 3'',192 lb,Kinesiology,Tennessee Volunteers,University of Tennessee
+AJ Russell,RHP,6' 6'',223 lb,Human Resource Management,Tennessee Volunteers,University of Tennessee
+Brayden Krenzel,RHP,6' 3'',214 lb,Civil Engineering,Tennessee Volunteers,University of Tennessee
+Michael Sharman,LHP,6' 1'',198 lb,Operations Management,Tennessee Volunteers,University of Tennessee
+Brayden May,LHP,5' 11'',186 lb,Information Technology,Tennessee Volunteers,University of Tennessee
+Dylan Loy,LHP,6' 0'',208 lb,Applied Mathematics,Tennessee Volunteers,University of Tennessee
+Brooks Wright,C,5' 10'',206 lb,Economics,Tennessee Volunteers,University of Tennessee
+Dane Bjorn,LHP,6' 2'',197 lb,Media Studies,Tennessee Volunteers,University of Tennessee
+Anson Seibert,RHP,6' 8'',235 lb,Management Information Systems,Tennessee Volunteers,University of Tennessee
+Jaxon Walker,OF,5' 11'',192 lb,Public Health,Tennessee Volunteers,University of Tennessee
+Bryson Thacker,LHP,6' 2'',189 lb,Finance,Tennessee Volunteers,University of Tennessee
+Luke Payne,LHP,6' 4'',200 lb,Data Analytics,Tennessee Volunteers,University of Tennessee
+Nic Abraham,RHP,6' 5'',209 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Alberto Osuna,1B/DH,6' 1'',244 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Robinson Martin,INF,5' 8'',172 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Taner Wiggins,RHP,6' 2'',189 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Ben Martin,RHP,6' 4'',225 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Tanner Franklin,RHP,6' 5'',225 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Jack Jones,INF,6' 3'',227 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Brennon Seigler,OF,6' 1'',210 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Dane Morrow,INF,6' 0'',178 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Beau Revord,RHP/OF,6' 2'',200 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Stratton Scott,RHP,6' 2'',196 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Rylr Smart,LHP,6' 4'',236 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Andrew DuMont,RHP,6' 1'',205 lb,Health Administration,Tennessee Volunteers,University of Tennessee
+Jayden Duplantier,INF/OF,"6'0""",205 lb,Sports Management,Texas Longhorns,UTA
+Jalin Flores,INF,"6'2""",210 lb,Business Administration,Texas Longhorns,UTA
+Jason Flores,RHP,"6'1""",245 lb,Computer Science,Texas Longhorns,UTA
+Ethan Mendoza,INF,"5'10""",195 lb,Marketing,Texas Longhorns,UTA
+Anthony Pack Jr.,OF,"5'10""",180 lb,Exercise Science,Texas Longhorns,UTA
+Andrew Ermis,C,"6'1""",210 lb,Finance,Texas Longhorns,UTA
+Carson Tinney,C,"6'4""",235 lb,Mechanical Engineering,Texas Longhorns,UTA
+Jonah Williams,OF,"6'3""",215 lb,Criminal Justice,Texas Longhorns,UTA
+Kade Bing,LHP,"6'1""",185 lb,Communications,Texas Longhorns,UTA
+Haiden Leffew,LHP,"6'1""",225 lb,Biology,Texas Longhorns,UTA
+Ruger Riojas,RHP,"6'0""",192 lb,Health Sciences,Texas Longhorns,UTA
+Presley Courville,C/UTL,"5'11""",185 lb,Information Systems,Texas Longhorns,UTA
+Josh Livingston,INF,"6'0""",215 lb,Accounting,Texas Longhorns,UTA
+Will Hill,OF,"5'10""",210 lb,Economics,Texas Longhorns,UTA
+Jack McKernan,LHP,"5'11""",205 lb,Data Science,Texas Longhorns,UTA
+Adrian Rodriguez,INF,"6'2""",200 lb,International Business,Texas Longhorns,UTA
+Cal Higgins,LHP,"6'4""",255 lb,Political Science,Texas Longhorns,UTA
+Grady Westphal,RHP,"6'2""",195 lb,Communications,Texas Longhorns,UTA
+Blake Peterson,OF,"6'0""",205 lb,Management,Texas Longhorns,UTA
+Kaleb Rogers,RHP,"5'11""",190 lb,Supply Chain Management,Texas Longhorns,UTA
+Casey Borba,INF,"6'1""",210 lb,Psychology,Texas Longhorns,UTA
+Maddox Monsour,OF/INF,"5'11""",205 lb,Computer Engineering,Texas Longhorns,UTA
+Connor McCreery,RHP,"6'6""",235 lb,Physics,Texas Longhorns,UTA
+Michael Winter,RHP,"6'5""",235 lb,Environmental Science,Texas Longhorns,UTA
+Sam Cozart,RHP,"6'6""",250 lb,Statistics,Texas Longhorns,UTA
+Callum Early,INF,"6'0""",190 lb,Marketing Analytics,Texas Longhorns,UTA
+Max Grubbs,RHP,"6'1""",220 lb,Criminal Justice,Texas Longhorns,UTA
+Cody Howard,RHP,"6'1""",215 lb,Kinesiology,Texas Longhorns,UTA
+Aiden Robbins,OF,"6'2""",190 lb,Human Resource Management,Texas Longhorns,UTA
+Ashton Larson,OF,"6'1""",200 lb,Civil Engineering,Texas Longhorns,UTA
+Thomas Burns,RHP,"6'3""",240 lb,Operations Management,Texas Longhorns,UTA
+Ethan Walker,LHP,"6'0""",200 lb,Information Technology,Texas Longhorns,UTA
+Hudson Hamilton,RHP,"6'1""",225 lb,Applied Mathematics,Texas Longhorns,UTA
+Luke Harrison,LHP,"6'2""",215 lb,Economics,Texas Longhorns,UTA
+Jack Paris,RHP,"6'2""",220 lb,Media Studies,Texas Longhorns,UTA
+Brody Walls,RHP/INF,"6'0""",195 lb,Management Information Systems,Texas Longhorns,UTA
+Cooper Rummel,RHP,"6'2""",230 lb,Public Health,Texas Longhorns,UTA
+Brett Crossland,RHP,"6'5""",240 lb,Finance,Texas Longhorns,UTA
+Sebastian Alexander,OF,"6'1""",190 lb,Sports Management,The Chanticleers,Coastal Carolina University
+Cameron Flukey,RHP,"6'6""",210 lb,Business Administration,The Chanticleers,Coastal Carolina University
+Ty Dooley,INF,"5'10""",185 lb,Computer Science,The Chanticleers,Coastal Carolina University
+Walker Mitchell,INF,"5'11""",180 lb,Marketing,The Chanticleers,Coastal Carolina University
+Chad Born,OF,"6'1""",195 lb,Exercise Science,The Chanticleers,Coastal Carolina University
+Blake Barthol,INF,"5'9""",185 lb,Finance,The Chanticleers,Coastal Carolina University
+Dean Mihos,INF/OF,"5'9""",165 lb,Mechanical Engineering,The Chanticleers,Coastal Carolina University
+Ty Barrango,INF,"5'11""",160 lb,Criminal Justice,The Chanticleers,Coastal Carolina University
+Jake Books,INF/OF,"6'0""",200 lb,Communications,The Chanticleers,Coastal Carolina University
+Domenico Tozzi,C,"5'10""",195 lb,Biology,The Chanticleers,Coastal Carolina University
+Colby Thorndyke,1B/OF,"6'0""",215 lb,Health Sciences,The Chanticleers,Coastal Carolina University
+Caden Bodine,C,"5'10""",200 lb,Information Systems,The Chanticleers,Coastal Carolina University
+Hayden Johnson,LHP,"6'5""",215 lb,Accounting,The Chanticleers,Coastal Carolina University
+Wells Sykes,OF,"5'8""",185 lb,Economics,The Chanticleers,Coastal Carolina University
+Jaxon Appelman,RHP,"6'1""",205 lb,Data Science,The Chanticleers,Coastal Carolina University
+Blagen Pado,OF,"5'10""",185 lb,International Business,The Chanticleers,Coastal Carolina University
+Calvin Junek,RHP,"6'4""",210 lb,Political Science,The Chanticleers,Coastal Carolina University
+Brice Estep,C,"5'9""",190 lb,Communications,The Chanticleers,Coastal Carolina University
+Cullen McKay,RHP,"6'1""",210 lb,Management,The Chanticleers,Coastal Carolina University
+Riley Eikhoff,RHP,"5'10""",185 lb,Supply Chain Management,The Chanticleers,Coastal Carolina University
+Freddy Rodriguez,INF,"5'10""",160 lb,Psychology,The Chanticleers,Coastal Carolina University
+Matthew Potok,RHP,"6'4""",220 lb,Computer Engineering,The Chanticleers,Coastal Carolina University
+Andrew Bowers,RHP,"6'2""",215 lb,Physics,The Chanticleers,Coastal Carolina University
+Scott Doran,RHP,"6'4""",220 lb,Environmental Science,The Chanticleers,Coastal Carolina University
+Ryan Perez,OF,"5'9""",190 lb,Statistics,The Chanticleers,Coastal Carolina University
+Tadan Bell,LHP,"6'2""",197 lb,Marketing Analytics,The Chanticleers,Coastal Carolina University
+Dawson Newman,LHP,"6'1""",180 lb,Criminal Justice,The Chanticleers,Coastal Carolina University
+Chance Mako,RHP,"6'5""",190 lb,Kinesiology,The Chanticleers,Coastal Carolina University
+Dylan Hansen,RHP,"6'0""",200 lb,Human Resource Management,The Chanticleers,Coastal Carolina University
+Kylen Watson,OF,"6'0""",195 lb,Civil Engineering,The Chanticleers,Coastal Carolina University
+Elias Holbert,RHP,"6'4""",244 lb,Operations Management,The Chanticleers,Coastal Carolina University
+Darin Horn,RHP,"6'4""",200 lb,Information Technology,The Chanticleers,Coastal Carolina University
+Dominick Carbone,LHP,"5'10""",180 lb,Applied Mathematics,The Chanticleers,Coastal Carolina University
+Oliver Ellison,RHP,"6'1""",199 lb,Economics,The Chanticleers,Coastal Carolina University
+Matt Joyce,RHP,"5'11""",185 lb,Media Studies,The Chanticleers,Coastal Carolina University
+Kaleb Huffman,1B/OF,"5'11""",210 lb,Management Information Systems,The Chanticleers,Coastal Carolina University
+Luke Jones,RHP,"5'10""",185 lb,Public Health,The Chanticleers,Coastal Carolina University
+Hudson Lance,RHP,"5'9""",185 lb,Finance,The Chanticleers,Coastal Carolina University
+Jacob Morrison,,"6'8""",245 lb,Data Analytics,The Chanticleers,Coastal Carolina University
+Keaton Grady,INF,"5'9""",169 lb,Sports Management,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Dylan Schlaegel,OF,"5'10""",184 lb,Business Administration,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Mason Swinney,INF/RHP,"6'0""",192 lb,Computer Science,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Cody Grebeck,INF,"5'7""",162 lb,Marketing,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Michael Dattalo,INF,"6'0""",204 lb,Exercise Science,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+James Ellwanger,RHP,"6'4""",205 lb,Finance,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Grant Jay,C,"6'0""",225 lb,Mechanical Engineering,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Nathan Humphreys,OF,"6'2""",207 lb,Criminal Justice,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Adam Berghult,C,"6'1""",206 lb,Communications,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Joey Nerat,OF,"5'11""",204 lb,Biology,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Luke Heefner,INF,"6'0""",184 lb,Health Sciences,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Landon Underhill,INF,"6'0""",198 lb,Information Systems,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Hudson Ellis,INF,"6'0""",175 lb,Accounting,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Brooks Sartain,INF,"6'1""",187 lb,Economics,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Dillon Haines,LHP,"5'9""",187 lb,Data Science,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Jake Bennett,C/OF,"6'2""",231 lb,International Business,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Chayton Krauss,INF,"6'3""",226 lb,Political Science,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+David Heefner,RHP,"6'3""",211 lb,Communications,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Tom Poole,UTL,"6'2""",211 lb,Management,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Tyler Schott,LHP,"6'0""",206 lb,Supply Chain Management,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Mason Peters,LHP,"5'11""",175 lb,Psychology,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Micah Bucknam,RHP,"6'1""",212 lb,Computer Engineering,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Bryan Williams Jr.,OF,"5'10""",176 lb,Physics,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Ben Tryon,INF,"6'0""",212 lb,Environmental Science,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Ashton Branson,RHP,"5'11""",180 lb,Statistics,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Luke Pettitte,RHP/INF,"6'2""",223 lb,Marketing Analytics,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Liam Watt,LHP,"6'1""",187 lb,Criminal Justice,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Park Prater,LHP/OF,"6'3""",225 lb,Kinesiology,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Tyler Ness,INF,"5'11""",181 lb,Human Resource Management,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Charlie Atkinson,RHP,"6'5""",212 lb,Civil Engineering,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Avery Duncan,RHP,"6'2""",189 lb,Operations Management,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Landon Abrahamson,RHP,"6'1""",207 lb,Information Technology,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Jace Russell,RHP,"6'2""",198 lb,Applied Mathematics,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Ryan Borberg,RHP,"6'1""",203 lb,Economics,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Athan Kroll,RHP,"6'4""",204 lb,Media Studies,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Will Yeary,RHP,"6'1""",182 lb,Management Information Systems,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Colton Roquemore,UTL,"5'9""",182 lb,Public Health,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Nick Bonn,RHP,"6'0""",157 lb,Finance,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Zach Todd,RHP,"6'3""",225 lb,Data Analytics,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Jerrod Jenkins,RHP,"6'2""",214 lb,Health Administration,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Rian Schwede,RHP,"6'2""",216 lb,Health Administration,Dallas Baptist Patriots,Dallas Baptist University (DBU)
+Jeff Lougee,INF,6' 0'',185 lb,Sports Management,Duke Blue Devils,Duke University
+Andrew Healy,LHP,6' 6'',200 lb,Business Administration,Duke Blue Devils,Duke University
+Andrew Yu,C,6' 0'',220 lb,Computer Science,Duke Blue Devils,Duke University
+Gabe Nard,RHP,5' 11'',190 lb,Marketing,Duke Blue Devils,Duke University
+Kyle Johnson,OF/LHP,6' 1'',205 lb,Exercise Science,Duke Blue Devils,Duke University
+Macon Winslow,C,6' 0'',200 lb,Finance,Duke Blue Devils,Duke University
+Wallace Clark,INF,6' 0'',195 lb,Mechanical Engineering,Duke Blue Devils,Duke University
+Ben Rounds,OF,6' 1'',200 lb,Criminal Justice,Duke Blue Devils,Duke University
+Owen Proksch,LHP,6' 3'',225 lb,Communications,Duke Blue Devils,Duke University
+Aidan Weaver,RHP,6' 5'',230 lb,Biology,Duke Blue Devils,Duke University
+Edward Hart,LHP,6' 5'',235 lb,Health Sciences,Duke Blue Devils,Duke University
+Henry Zatkowski,LHP,6' 2'',190 lb,Information Systems,Duke Blue Devils,Duke University
+Andrew Bell,INF,6' 1'',195 lb,Accounting,Duke Blue Devils,Duke University
+Trevor Johnson,OF,6' 2'',205 lb,Economics,Duke Blue Devils,Duke University
+Jake Hyde,INF/OF,6' 4'',205 lb,Data Science,Duke Blue Devils,Duke University
+James Tallon,LHP,6' 5'',195 lb,International Business,Duke Blue Devils,Duke University
+Sam Harris,1B/OF,6' 5'',220 lb,Political Science,Duke Blue Devils,Duke University
+Mark Hindy,LHP,6' 4'',220 lb,Communications,Duke Blue Devils,Duke University
+Adam Troch,OF,6' 0'',175 lb,Management,Duke Blue Devils,Duke University
+Nick DiPietrantonio,INF,6' 3'',210 lb,Supply Chain Management,Duke Blue Devils,Duke University
+Jake Berger,INF,6' 3'',195 lb,Psychology,Duke Blue Devils,Duke University
+Reid Easterly,LHP,6' 0'',200 lb,Computer Engineering,Duke Blue Devils,Duke University
+Jay Slater,C,6' 0'',198 lb,Physics,Duke Blue Devils,Duke University
+Kael Gahan,LHP,6' 2'',185 lb,Environmental Science,Duke Blue Devils,Duke University
+Ryan Higgins,RHP,6' 2'',210 lb,Statistics,Duke Blue Devils,Duke University
+AJ Gracia,OF,6' 3'',195 lb,Marketing Analytics,Duke Blue Devils,Duke University
+Ryan Calvert,RHP,6' 5'',240 lb,Criminal Justice,Duke Blue Devils,Duke University
+Roman DiGiacomo,C/RHP,6' 3'',220 lb,Kinesiology,Duke Blue Devils,Duke University
+Ben Miller,INF,6' 1'',225 lb,Human Resource Management,Duke Blue Devils,Duke University
+David Boisvert,RHP,6' 5'',215 lb,Civil Engineering,Duke Blue Devils,Duke University
+Noah Murray,INF,5' 10'',170 lb,Operations Management,Duke Blue Devils,Duke University
+Jack Feehery,LHP,6' 0'',175 lb,Information Technology,Duke Blue Devils,Duke University
+Zach Jackson,OF,6' 1'',170 lb,Applied Mathematics,Duke Blue Devils,Duke University
+Tyler Albright,OF,6' 0'',200 lb,Economics,Duke Blue Devils,Duke University
+Harley Goodner,INF,6' 1'',198 lb,Media Studies,Duke Blue Devils,Duke University
+Marcello Mastroianni,LHP,6' 3'',195 lb,Management Information Systems,Duke Blue Devils,Duke University
+Jack Hedrick,RHP,6' 5'',205 lb,Public Health,Duke Blue Devils,Duke University
+Jimmy Evans,OF,5' 9'',180 lb,Finance,Duke Blue Devils,Duke University
+Gavin Brown,LHP,6' 5'',195 lb,Data Analytics,Duke Blue Devils,Duke University
+Collins Black,RHP,6' 2'',200 lb,Health Administration,Duke Blue Devils,Duke University
+James Raidt,RHP,6' 3'',180 lb,Health Administration,Duke Blue Devils,Duke University
+Bryce Brannon,RHP,6' 3'',200 lb,Health Administration,Duke Blue Devils,Duke University
+Max Stammel,LHP,6' 3'',190 lb,Health Administration,Duke Blue Devils,Duke University
+Jake Smith,Infielder,"5'10""",175 lb,Sports Management,Louisiana tech bulldogs,Louisiana Tech University 
+Thaxton Berch,Infielder,"5'10""",175 lb,Business Administration,Louisiana tech bulldogs,Louisiana Tech University 
+Will Safford,Infielder,"5'8""",173 lb,Computer Science,Louisiana tech bulldogs,Louisiana Tech University 
+Brody Drost,Outfielder,"6'3""",205 lb,Marketing,Louisiana tech bulldogs,Louisiana Tech University 
+Garrison Berkley,Outfielder,"6'2""",190 lb,Exercise Science,Louisiana tech bulldogs,Louisiana Tech University 
+Zeb Ruddell,Outfielder,"6'0""",205 lb,Finance,Louisiana tech bulldogs,Louisiana Tech University 
+Michael Ballard,Infielder,"6'0""",195 lb,Mechanical Engineering,Louisiana tech bulldogs,Louisiana Tech University 
+Colton Coates,Infielder,"6'0""",190 lb,Criminal Justice,Louisiana tech bulldogs,Louisiana Tech University 
+Brooks Roberson,Pitcher,"6'4""",190 lb,Communications,Louisiana tech bulldogs,Louisiana Tech University 
+Luke Cooley,Pitcher,"6'1""",215 lb,Biology,Louisiana tech bulldogs,Louisiana Tech University 
+Bryce Dolby,Pitcher,"6'5""",210 lb,Health Sciences,Louisiana tech bulldogs,Louisiana Tech University 
+Grant Comeaux,Infielder,"6'1""",190 lb,Information Systems,Louisiana tech bulldogs,Louisiana Tech University 
+CJ Sturiale,Outfielder/Pitcher,"5'10""",185 lb,Accounting,Louisiana tech bulldogs,Louisiana Tech University 
+Logan Forsythe,Pitcher,"6'0""",185 lb,Economics,Louisiana tech bulldogs,Louisiana Tech University 
+Slade Netterville,Infielder,"5'9""",170 lb,Data Science,Louisiana tech bulldogs,Louisiana Tech University 
+Cade Patterson,Outfielder,"6'1""",195 lb,International Business,Louisiana tech bulldogs,Louisiana Tech University 
+Luke Smith,Outfielder,"6'0""",190 lb,Political Science,Louisiana tech bulldogs,Louisiana Tech University 
+Grant Hubka,Pitcher,"6'4""",220 lb,Communications,Louisiana tech bulldogs,Louisiana Tech University 
+Jake LaRocca,Catcher,"5'10""",200 lb,Management,Louisiana tech bulldogs,Louisiana Tech University 
+Sebastian Mexico,Outfielder,"6'1""",190 lb,Supply Chain Management,Louisiana tech bulldogs,Louisiana Tech University 
+Reid Snider,Infielder,"6'2""",190 lb,Psychology,Louisiana tech bulldogs,Louisiana Tech University 
+Blake Hooks,Pitcher,"6'0""",195 lb,Computer Engineering,Louisiana tech bulldogs,Louisiana Tech University 
+Will Croft,Pitcher,"5'10""",185 lb,Physics,Louisiana tech bulldogs,Louisiana Tech University 
+Matt Houston,Catcher,"6'2""",240 lb,Environmental Science,Louisiana tech bulldogs,Louisiana Tech University 
+Luke Nichols,Pitcher,"6'2""",205 lb,Statistics,Louisiana tech bulldogs,Louisiana Tech University 
+Connor Nation,Pitcher,"6'0""",185 lb,Marketing Analytics,Louisiana tech bulldogs,Louisiana Tech University 
+Zach Mazoch,Catcher,"6'0""",210 lb,Criminal Justice,Louisiana tech bulldogs,Louisiana Tech University 
+Reece Tarini,Pitcher,"5'10""",195 lb,Kinesiology,Louisiana tech bulldogs,Louisiana Tech University 
+Nate Crider,Pitcher,"6'4""",230 lb,Human Resource Management,Louisiana tech bulldogs,Louisiana Tech University 
+Ryan Harland,Pitcher,"5'8""",185 lb,Civil Engineering,Louisiana tech bulldogs,Louisiana Tech University 
+Noah Magee,Pitcher,"6'1""",205 lb,Operations Management,Louisiana tech bulldogs,Louisiana Tech University 
+Kade Parker,Pitcher,"6'2""",180 lb,Information Technology,Louisiana tech bulldogs,Louisiana Tech University 
+Garrett Wallace,Outfielder,"6'2""",190 lb,Applied Mathematics,Louisiana tech bulldogs,Louisiana Tech University 
+Eli Berch,Catcher,"5'11""",210 lb,Economics,Louisiana tech bulldogs,Louisiana Tech University 
+Jacob Havern,Pitcher,"6'6""",180 lb,Media Studies,Louisiana tech bulldogs,Louisiana Tech University 
+Hayden Harmon,Pitcher,"5'11""",195 lb,Management Information Systems,Louisiana tech bulldogs,Louisiana Tech University 
+Cam Harris,Utility,"6'1""",185 lb,Public Health,Louisiana tech bulldogs,Louisiana Tech University 
+Ethan Judice,Pitcher,"5'11""",185 lb,Finance,Louisiana tech bulldogs,Louisiana Tech University 
+Trey Hawsey,Infielder,"6'2""",240 lb,Data Analytics,Louisiana tech bulldogs,Louisiana Tech University 
+Sutton Lewis,Infielder,"6'0""",195 lb,Health Administration,Louisiana tech bulldogs,Louisiana Tech University 
+Owen Schexnaydre,Pitcher,"6'5""",275 lb,Health Administration,Louisiana tech bulldogs,Louisiana Tech University 
+Bryson Pierce,Pitcher,"6'3""",180 lb,Health Administration,Louisiana tech bulldogs,Louisiana Tech University 
+Landon Fontenot,Pitcher,"5'10""",200 lb,Health Administration,Louisiana tech bulldogs,Louisiana Tech University 
+Drew Bourgeois,Outfielder,"5'8""",175 lb,Health Administration,Louisiana tech bulldogs,Louisiana Tech University 
+Jordan Austin,OF,"6'4""",164 lb,Sports Management,Screaming Eagles,Southern Indiana
+Jackson Taylor,IF,"6'3""",162 lb,Business Administration,Screaming Eagles,Southern Indiana
+Thomas Emerich,IF/OF,"6'4""",168 lb,Computer Science,Screaming Eagles,Southern Indiana
+Colby Morse,RHP,"6'2""",156 lb,Marketing,Screaming Eagles,Southern Indiana
+Eli Gipson,IF,"6'0""",182 lb,Exercise Science,Screaming Eagles,Southern Indiana
+Breyllin Suriel,RHP,"6'1""",155 lb,Finance,Screaming Eagles,Southern Indiana
+Grant Parson,RHP,"6'3""",184 lb,Mechanical Engineering,Screaming Eagles,Southern Indiana
+Nomar Garcia,IF,"6'4""",184 lb,Criminal Justice,Screaming Eagles,Southern Indiana
+Zack Henderson,OF,"6'3""",152 lb,Communications,Screaming Eagles,Southern Indiana
+Cole Chace,RHP,"6'2""",196 lb,Biology,Screaming Eagles,Southern Indiana
+Carter Beck,OF,"6'5""",197 lb,Health Sciences,Screaming Eagles,Southern Indiana
+Jorge Cartagena,OF,"6'0""",195 lb,Information Systems,Screaming Eagles,Southern Indiana
+Zac Laird,LHP,"6'2""",149 lb,Accounting,Screaming Eagles,Southern Indiana
+Ty Brooks,RHP,"6'4""",183 lb,Economics,Screaming Eagles,Southern Indiana
+Sean McGurk,C,"6'3""",185 lb,Data Science,Screaming Eagles,Southern Indiana
+John Curl,1B,"6'2""",233 lb,International Business,Screaming Eagles,Southern Indiana
+Brady Banker,LHP,"6'1""",200 lb,Political Science,Screaming Eagles,Southern Indiana
+Keegan Garis,OF,"6'1""",202 lb,Communications,Screaming Eagles,Southern Indiana
+Nick Sutherlin,IF,"6'1""",207 lb,Management,Screaming Eagles,Southern Indiana
+Carlos Pena,IF/OF,"6'4""",215 lb,Supply Chain Management,Screaming Eagles,Southern Indiana
+Alex Nevils,C,"6'5""",191 lb,Psychology,Screaming Eagles,Southern Indiana
+Emil Estrella,RHP/OF,"6'3""",207 lb,Computer Engineering,Screaming Eagles,Southern Indiana
+Gavin Morris,RHP,"5'10""",203 lb,Physics,Screaming Eagles,Southern Indiana
+Ben Waliczek,IF,"6'4""",171 lb,Environmental Science,Screaming Eagles,Southern Indiana
+Carson Seeman,RHP,"6'4""",193 lb,Statistics,Screaming Eagles,Southern Indiana
+Mason Roell,IF,"6'2""",189 lb,Marketing Analytics,Screaming Eagles,Southern Indiana
+Aaron Moss,RHP,"6'3""",155 lb,Criminal Justice,Screaming Eagles,Southern Indiana
+Cole Pacheco,RHP,"6'2""",237 lb,Kinesiology,Screaming Eagles,Southern Indiana
+Max McEwen,RHP,"6'0""",204 lb,Human Resource Management,Screaming Eagles,Southern Indiana
+Ryan Karst,RHP,"6'1""",218 lb,Civil Engineering,Screaming Eagles,Southern Indiana
+Jacob Spencer,RHP,"6'3""",197 lb,Operations Management,Screaming Eagles,Southern Indiana
+Miguel Cantu,1B,"6'4""",213 lb,Information Technology,Screaming Eagles,Southern Indiana
+Andrew Ortiz,OF,"6'1""",169 lb,Applied Mathematics,Screaming Eagles,Southern Indiana
+Jeremy Martinez,C,"6'4""",190 lb,Economics,Screaming Eagles,Southern Indiana
+Wes Lyerly,RHP,"6'3""",181 lb,Media Studies,Screaming Eagles,Southern Indiana
+Weston Fulk,LHP/UTIL,"6'7""",243 lb,Management Information Systems,Screaming Eagles,Southern Indiana
+Sebastian Torres,IF,"5'10""",191 lb,Public Health,Screaming Eagles,Southern Indiana
+Liam Kirsh,C,"6'3""",195 lb,Finance,Screaming Eagles,Southern Indiana
+Jack Armstrong,RHP,"6'1""",217 lb,Data Analytics,Screaming Eagles,Southern Indiana
+Caden Schrader,RHP,"6'5""",163 lb,Health Administration,Screaming Eagles,Southern Indiana
+Ryan Castro,Infielder,"6'0""",195 lbs,Sports Management,UC Irvine Anteaters,"University of California, Irvine"
+Jack Ross,Pitcher,"6'3""",200 lbs,Business Administration,UC Irvine Anteaters,"University of California, Irvine"
+Andrew Grove,Pitcher,"6'3""",210 lbs,Computer Science,UC Irvine Anteaters,"University of California, Irvine"
+James Castagnola,Infielder,"6'1""",195 lbs,Marketing,UC Irvine Anteaters,"University of California, Irvine"
+Jacob McCombs,Outfielder,"6'2""",200 lbs,Exercise Science,UC Irvine Anteaters,"University of California, Irvine"
+Rowan Felsch,Outfield / First Base,"6'2""",200 lbs,Finance,UC Irvine Anteaters,"University of California, Irvine"
+Zach Doyle,Outfielder,"5'10""",175 lbs,Mechanical Engineering,UC Irvine Anteaters,"University of California, Irvine"
+Max Martin,Pitcher,"6'5""",195 lbs,Criminal Justice,UC Irvine Anteaters,"University of California, Irvine"
+David Utagawa,Pitcher,"6'4""",235 lbs,Communications,UC Irvine Anteaters,"University of California, Irvine"
+Ricky Ojeda,Pitcher,"5'11""",185 lbs,Biology,UC Irvine Anteaters,"University of California, Irvine"
+Danny Suarez,Pitcher,"6'3""",210 lbs,Health Sciences,UC Irvine Anteaters,"University of California, Irvine"
+Finnegan Wall,Pitcher,"6'2""",205 lbs,Information Systems,UC Irvine Anteaters,"University of California, Irvine"
+Will Bermudez,Infielder,"5'10""",185 lbs,Accounting,UC Irvine Anteaters,"University of California, Irvine"
+Riley Kelly,Pitcher,"6'5""",240 lbs,Economics,UC Irvine Anteaters,"University of California, Irvine"
+Zach Crandall,Catcher,"5'10""",210 lbs,Data Science,UC Irvine Anteaters,"University of California, Irvine"
+Tim Grack,Pitcher,"6'1""",195 lbs,International Business,UC Irvine Anteaters,"University of California, Irvine"
+Landon Gaz,First Base / Outfield,"6'2""",235 lbs,Political Science,UC Irvine Anteaters,"University of California, Irvine"
+David Butler,Pitcher,"6'1""",185 lbs,Communications,UC Irvine Anteaters,"University of California, Irvine"
+Frankie Carney,Infielder,"5'10""",180 lbs,Management,UC Irvine Anteaters,"University of California, Irvine"
+Auggie Gutierrez,Infielder,"5'11""",190 lbs,Supply Chain Management,UC Irvine Anteaters,"University of California, Irvine"
+Alonso Reyes,Catcher / Infield,"5'10""",180 lbs,Psychology,UC Irvine Anteaters,"University of California, Irvine"
+Chase Call,Outfielder,"6'2""",215 lbs,Computer Engineering,UC Irvine Anteaters,"University of California, Irvine"
+Brandon Luu,Pitcher,"6'2""",205 lbs,Physics,UC Irvine Anteaters,"University of California, Irvine"
+Trevor Hansen,Pitcher,"6'2""",195 lbs,Environmental Science,UC Irvine Anteaters,"University of California, Irvine"
+Ryan Kysar,Pitcher,"6'0""",195 lbs,Statistics,UC Irvine Anteaters,"University of California, Irvine"
+Matthew Krause,Pitcher,"6'0""",190 lbs,Marketing Analytics,UC Irvine Anteaters,"University of California, Irvine"
+Davis D'Errico,Outfielder,"5'10""",190 lbs,Criminal Justice,UC Irvine Anteaters,"University of California, Irvine"
+Tyler Foster,Pitcher,"6'1""",190 lbs,Kinesiology,UC Irvine Anteaters,"University of California, Irvine"
+Colin Yeaman,Infielder,"6'2""",200 lbs,Human Resource Management,UC Irvine Anteaters,"University of California, Irvine"
+Hudson Comer,Outfielder,"6'2""",210 lbs,Civil Engineering,UC Irvine Anteaters,"University of California, Irvine"
+Zach Fjelstad,Infielder,"5'11""",190 lbs,Operations Management,UC Irvine Anteaters,"University of California, Irvine"
+Ryan Ham,Infielder,"6'0""",185 lbs,Information Technology,UC Irvine Anteaters,"University of California, Irvine"
+Dane Grant,Pitcher,"6'1""",185 lbs,Applied Mathematics,UC Irvine Anteaters,"University of California, Irvine"
+Blake Penso,Catcher,"6'3""",225 lbs,Economics,UC Irvine Anteaters,"University of California, Irvine"
+Ryder Brooks,Pitcher,"6'3""",200 lbs,Media Studies,UC Irvine Anteaters,"University of California, Irvine"
+Michael Podstreleny,Catcher,"5'10""",190 lbs,Management Information Systems,UC Irvine Anteaters,"University of California, Irvine"
+Theo Kim,Infielder,"6'2""",200 lbs,Public Health,UC Irvine Anteaters,"University of California, Irvine"
+Jaxton Andeel,Pitcher,"6'4""",210 lbs,Finance,UC Irvine Anteaters,"University of California, Irvine"
+Aiden Alvarez,Pitcher,"6'3""",200 lbs,Data Analytics,UC Irvine Anteaters,"University of California, Irvine"
+Anthony Martinez,First Baseman,"6'3""",230 lbs,Health Administration,UC Irvine Anteaters,"University of California, Irvine"
+Reiss Calvin,Outfield/Infield,"6'2""",195 lb,Sports Management,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Jackson Flora,Right-Handed Pitcher,"6'5""",205 lb,Business Administration,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Rowan Kelly,Outfield,"5'10""",175 lb,Computer Science,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Jonathan Mendez,Infield,"6'1""",200 lb,Marketing,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Nolan Farley,Infield,"6'4""",190 lb,Exercise Science,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Cole Tryba,Left-Handed Pitcher,"6'0""",180 lb,Finance,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Jack Meissner,Infield,"6'2""",180 lb,Mechanical Engineering,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Liam Barrett,Outfield,"6'0""",185 lb,Criminal Justice,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Nate Vargas,Catcher,"6'3""",225 lb,Communications,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Hudson Aber,Right-Handed Pitcher,"6'2""",195 lb,Biology,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Cole Kosciusko,Infield/Outfield,"6'2""",205 lb,Health Sciences,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Corey Nunez,Infield,"6'3""",190 lb,Information Systems,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Carson Timothy,Right-Handed Pitcher,"5'11""",190 lb,Accounting,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Tyler Bremner,Right-Handed Pitcher,"6'2""",190 lb,Economics,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Nic Peterson,Left-Handed Pitcher,"6'2""",200 lb,Data Science,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Nathan Aceves,Right-Handed Pitcher,"6'3""",200 lb,International Business,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Masen Swan,Left-Handed Pitcher,"6'0""",185 lb,Political Science,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Frank Camarillo,Right-Handed Pitcher,"6'4""",210 lb,Communications,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Peter Storjohann,Right-Handed Pitcher,"6'5""",230 lb,Management,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Van Froling,Left-Handed Pitcher,"6'4""",210 lb,Supply Chain Management,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Jeremiah Crain,Infield,"6'1""",205 lb,Psychology,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Jack Haferkamp,Outfield,"6'4""",195 lb,Computer Engineering,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Raymond Olivas,Right-Handed Pitcher,"6'1""",175 lb,Physics,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Jack Holman,Infield/Outfield,"6'4""",225 lb,Environmental Science,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Elliot Gallegos,Right-Handed Pitcher,"6'1""",205 lb,Statistics,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Xavier Esquer,Infield,"5'10""",185 lb,Marketing Analytics,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Calvin Proskey,Right-Handed Pitcher,"6'3""",195 lb,Criminal Justice,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Casey Euper,Left-Handed Pitcher,"6'3""",190 lb,Kinesiology,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Stunner Gonzales,Right-Handed Pitcher,"6'7""",200 lb,Human Resource Management,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+LeTrey McCollum,Outfield/Infield,"6'4""",212 lb,Civil Engineering,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Hudson Barrett,Left-Handed Pitcher,"6'5""",225 lb,Operations Management,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Ian Fernandez,Catcher,"6'2""",195 lb,Information Technology,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Jimmy Zakhar,Catcher,"6'1""",195 lb,Applied Mathematics,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Rex DeAngelis,Outfield/Infield,"6'4""",220 lb,Economics,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Isaac Kim,Infield,"6'4""",230 lb,Media Studies,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Chase Hoover,Left-Handed Pitcher,"6'1""",205 lb,Management Information Systems,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Hayden Hattenbach,Left-Handed Pitcher,"6'7""",245 lb,Public Health,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+AJ Krodel,Right-Handed Pitcher,"6'4""",195 lb,Finance,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Donovann Jackson,Left-Handed Pitcher,"6'3""",190 lb,Data Analytics,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Reed Moring,Right-Handed Pitcher,"6'1""",190 lb,Health Administration,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Nick Salmon,Right-Handed Pitcher,"6'4""",215 lb,Health Administration,UC Santa Barbara Gauchos," University of California, Santa Barbara"
+Alex Madera,INF,5'10'',179 lb,Sports Management,North Carolina Tar Heels,UNC-Chapel Hill
+Reece Holbrook,OF,5'11'',181 lb,Business Administration,North Carolina Tar Heels,UNC-Chapel Hill
+Lee Sowers,INF,5'10'',185 lb,Computer Science,North Carolina Tar Heels,UNC-Chapel Hill
+Sawyer Black,OF,6'1'',194 lb,Marketing,North Carolina Tar Heels,UNC-Chapel Hill
+Gavin Gallaher,INF,6'1'',191 lb,Exercise Science,North Carolina Tar Heels,UNC-Chapel Hill
+Jackson Van De Brake,INF,6'1'',202 lb,Finance,North Carolina Tar Heels,UNC-Chapel Hill
+Perry Hargett,OF,6'0'',187 lb,Mechanical Engineering,North Carolina Tar Heels,UNC-Chapel Hill
+Boaz Harper,INF,5'11'',175 lb,Criminal Justice,North Carolina Tar Heels,UNC-Chapel Hill
+Tom Chmielewski,LHP,6'2'',210 lb,Communications,North Carolina Tar Heels,UNC-Chapel Hill
+Tyson Bass,OF,6'3'',211 lb,Biology,North Carolina Tar Heels,UNC-Chapel Hill
+Macaddin Dye,C,6'1'',215 lb,Health Sciences,North Carolina Tar Heels,UNC-Chapel Hill
+Parker McCoy,INF,6'1'',205 lb,Information Systems,North Carolina Tar Heels,UNC-Chapel Hill
+Cameron Padgett,RHP,6'3'',195 lb,Accounting,North Carolina Tar Heels,UNC-Chapel Hill
+Boston Flannery,RHP,6'4'',230 lb,Economics,North Carolina Tar Heels,UNC-Chapel Hill
+Carter French,OF,6'2'',196 lb,Data Science,North Carolina Tar Heels,UNC-Chapel Hill
+Camron Seagraves,RHP,6'3'',179 lb,International Business,North Carolina Tar Heels,UNC-Chapel Hill
+Alex Ferrell,INF,6'2'',209 lb,Political Science,North Carolina Tar Heels,UNC-Chapel Hill
+Sam Angelo,INF,6'0'',225 lb,Communications,North Carolina Tar Heels,UNC-Chapel Hill
+Matthew Matthijs,RHP,6'2'',230 lb,Management,North Carolina Tar Heels,UNC-Chapel Hill
+Rom Kellis V,OF/C,6'1'',203 lb,Supply Chain Management,North Carolina Tar Heels,UNC-Chapel Hill
+Kyle Percival,LHP,6'5'',220 lb,Psychology,North Carolina Tar Heels,UNC-Chapel Hill
+Kane Kepley,OF,5'8'',180 lb,Computer Engineering,North Carolina Tar Heels,UNC-Chapel Hill
+Riley Leatherman,RHP,6'2'',180 lb,Physics,North Carolina Tar Heels,UNC-Chapel Hill
+Jason DeCaro,RHP,6'5'',230 lb,Environmental Science,North Carolina Tar Heels,UNC-Chapel Hill
+Olin Johnson,RHP,6'6'',230 lb,Statistics,North Carolina Tar Heels,UNC-Chapel Hill
+Francesco Capocci,RHP,6'4'',221 lb,Marketing Analytics,North Carolina Tar Heels,UNC-Chapel Hill
+Folger Boaz,LHP,6'2'',212 lb,Criminal Justice,North Carolina Tar Heels,UNC-Chapel Hill
+Cale Bolton,RHP,6'5'',240 lb,Kinesiology,North Carolina Tar Heels,UNC-Chapel Hill
+Harrison Lewis,RHP,6'6'',236 lb,Human Resource Management,North Carolina Tar Heels,UNC-Chapel Hill
+Walker McDuffie,RHP,6'0'',200 lb,Civil Engineering,North Carolina Tar Heels,UNC-Chapel Hill
+Jacob Kirby,RHP,6'5'',200 lb,Operations Management,North Carolina Tar Heels,UNC-Chapel Hill
+Jake Knapp,RHP,6'5'',270 lb,Information Technology,North Carolina Tar Heels,UNC-Chapel Hill
+Tyler Parks,INF,5'9'',177 lb,Applied Mathematics,North Carolina Tar Heels,UNC-Chapel Hill
+Luke Stevenson,C,6'1'',210 lb,Economics,North Carolina Tar Heels,UNC-Chapel Hill
+Hunter Stokely,INF,6'3'',241 lb,Media Studies,North Carolina Tar Heels,UNC-Chapel Hill
+Will Simmons,RHP,6'2'',205 lb,Management Information Systems,North Carolina Tar Heels,UNC-Chapel Hill
+Aidan Haugh,RHP,6'6'',229 lb,Public Health,North Carolina Tar Heels,UNC-Chapel Hill
+Ryan Hench,RHP,6'2'',200 lb,Finance,North Carolina Tar Heels,UNC-Chapel Hill
+Dylan Weber,LHP,6'0'',197 lb,Data Analytics,North Carolina Tar Heels,UNC-Chapel Hill
+Mitch Wilson,C,6'3'',212 lb,Health Administration,North Carolina Tar Heels,UNC-Chapel Hill
+Tim Lawson,LHP,6'5'',230 lb,Health Administration,North Carolina Tar Heels,UNC-Chapel Hill
+Andrew Wallen,RHP,6'7'',245 lb,Health Administration,North Carolina Tar Heels,UNC-Chapel Hill
+Ryan Lynch,RHP,6'3'',235 lb,Health Administration,North Carolina Tar Heels,UNC-Chapel Hill
+Mason Yokum,LHP,6'3'',185 lb,Health Administration,North Carolina Tar Heels,UNC-Chapel Hill
+John Hughes,LHP,6'0'',215 lb,Health Administration,North Carolina Tar Heels,UNC-Chapel Hill
+Lee Ellis,Jr.,"6'1""",179 lb,Sports Management,Ohio State Buckeyes,Ohio State University
+Henry Kaczmar,Sr.,"5'10""",210 lb,Business Administration,Ohio State Buckeyes,Ohio State University
+Alex Bemis,Jr.,"5'11""",211 lb,Computer Science,Ohio State Buckeyes,Ohio State University
+Bryer Arview,R-So.,"5'11""",211 lb,Marketing,Ohio State Buckeyes,Ohio State University
+Maddix Simpson,So.,"6'1""",195 lb,Exercise Science,Ohio State Buckeyes,Ohio State University
+Addison Binnie,Jr.,"6'0""",206 lb,Finance,Ohio State Buckeyes,Ohio State University
+Noah Furcht,Gr.,"6'1""",212 lb,Mechanical Engineering,Ohio State Buckeyes,Ohio State University
+Grant Mangrum,Gr.,"6'2""",207 lb,Criminal Justice,Ohio State Buckeyes,Ohio State University
+Zach Weber,Gr.,"6'2""",215 lb,Communications,Ohio State Buckeyes,Ohio State University
+Miles Vandenheuvel,Jr.,"6'2""",193 lb,Biology,Ohio State Buckeyes,Ohio State University
+Gavin West,Jr.,"6'1""",209 lb,Health Sciences,Ohio State Buckeyes,Ohio State University
+Andrew Edrington,Jr.,"6'0""",190 lb,Information Systems,Ohio State Buckeyes,Ohio State University
+Sahil Patel,R-Jr.,"6'0""",184 lb,Accounting,Ohio State Buckeyes,Ohio State University
+Mason Eckelman,Jr.,"6'1""",223 lb,Economics,Ohio State Buckeyes,Ohio State University
+Jack Cecil,Jr.,"6'0""",187 lb,Data Science,Ohio State Buckeyes,Ohio State University
+Dane Harvey,R-So.,"6'5""",285 lb,International Business,Ohio State Buckeyes,Ohio State University
+Chris Domke,Jr.,"6'4""",214 lb,Political Science,Ohio State Buckeyes,Ohio State University
+Jake Michalak,Jr.,"6'3""",217 lb,Communications,Ohio State Buckeyes,Ohio State University
+Pierce Herrenbruck,Jr.,"6'2""",202 lb,Management,Ohio State Buckeyes,Ohio State University
+Luke Carrell,R-Sr.,"6'2""",213 lb,Supply Chain Management,Ohio State Buckeyes,Ohio State University
+Hunter Shaw,Sr.,"6'5""",213 lb,Psychology,Ohio State Buckeyes,Ohio State University
+Haven Fielder,Fr.,"6'2""",243 lb,Computer Engineering,Ohio State Buckeyes,Ohio State University
+Ryan Butler,Gr.,"6'2""",202 lb,Physics,Ohio State Buckeyes,Ohio State University
+Nik Copenhaver,R-So.,"6'4""",224 lb,Environmental Science,Ohio State Buckeyes,Ohio State University
+Caden Marcum,Jr.,"6'6""",166 lb,Statistics,Ohio State Buckeyes,Ohio State University
+CJ Reid,Jr.,"6'0""",196 lb,Marketing Analytics,Ohio State Buckeyes,Ohio State University
+Lincoln McVicker,Jr.,"6'5""",261 lb,Criminal Justice,Ohio State Buckeyes,Ohio State University
+Austin Rose,Fr.,"6'3""",221 lb,Kinesiology,Ohio State Buckeyes,Ohio State University
+Steven Cavaco,Fr.,"5'11""",211 lb,Human Resource Management,Ohio State Buckeyes,Ohio State University
+Ryan Zamora,Jr.,"6'0""",211 lb,Civil Engineering,Ohio State Buckeyes,Ohio State University
+Alonzo Paul Jr.,Sr.,"5'9""",173 lb,Operations Management,Ohio State Buckeyes,Ohio State University
+Douglas Bauer,Sr.,"6'3""",212 lb,Information Technology,Ohio State Buckeyes,Ohio State University
+Zak Sigman,Jr.,"5'10""",210 lb,Applied Mathematics,Ohio State Buckeyes,Ohio State University
+Gavin Kuzniewski,So.,"5'11""",211 lb,Economics,Ohio State Buckeyes,Ohio State University
+Connor Fuhrer,Fr.,"6'2""",185 lb,Media Studies,Ohio State Buckeyes,Ohio State University
+Jude Fisher,Fr.,"6'2""",207 lb,Management Information Systems,Ohio State Buckeyes,Ohio State University
+Jacob Parr,Fr.,"6'4""",208 lb,Public Health,Ohio State Buckeyes,Ohio State University
+Owen Graf,Fr.,"6'4""",206 lb,Finance,Ohio State Buckeyes,Ohio State University
+Nick Sawyer,Jr.,"5'10""",210 lb,Data Analytics,Ohio State Buckeyes,Ohio State University
+Trey Fenderson,INF,6' 0'',185 lb,Sports Management,Pittsburgh Panthers,University Of Pittsburgh
+Kai Wagner,INF,6' 6'',200 lb,Business Administration,Pittsburgh Panthers,University Of Pittsburgh
+AJ Nessler,OF,6' 0'',220 lb,Computer Science,Pittsburgh Panthers,University Of Pittsburgh
+Jake Kendro,INF,5' 11'',190 lb,Marketing,Pittsburgh Panthers,University Of Pittsburgh
+Joey Baran,C,6' 1'',205 lb,Exercise Science,Pittsburgh Panthers,University Of Pittsburgh
+Anthony LaSala,INF,6' 0'',200 lb,Finance,Pittsburgh Panthers,University Of Pittsburgh
+Mason Ligenza,OF,6' 0'',195 lb,Mechanical Engineering,Pittsburgh Panthers,University Of Pittsburgh
+Caden Dulin,INF,6' 1'',200 lb,Criminal Justice,Pittsburgh Panthers,University Of Pittsburgh
+Aidan Mcaskie,OF/INF,6' 3'',225 lb,Communications,Pittsburgh Panthers,University Of Pittsburgh
+Ryan Apaliski,LHP,6' 5'',230 lb,Biology,Pittsburgh Panthers,University Of Pittsburgh
+Derrick Tarpley Jr.,OF,6' 5'',235 lb,Health Sciences,Pittsburgh Panthers,University Of Pittsburgh
+Julian Irizarry,OF,6' 2'',190 lb,Information Systems,Pittsburgh Panthers,University Of Pittsburgh
+Mikey Gray,LHP,6' 1'',195 lb,Accounting,Pittsburgh Panthers,University Of Pittsburgh
+Joey Ciancimino,RHP,6' 2'',205 lb,Economics,Pittsburgh Panthers,University Of Pittsburgh
+Noah Czajkowski,RHP,6' 4'',205 lb,Data Science,Pittsburgh Panthers,University Of Pittsburgh
+Sam Bryan,RHP,6' 5'',195 lb,International Business,Pittsburgh Panthers,University Of Pittsburgh
+Sebastian Pisacreta,C,6' 5'',220 lb,Political Science,Pittsburgh Panthers,University Of Pittsburgh
+Gavin Chillot,RHP,6' 4'',220 lb,Communications,Pittsburgh Panthers,University Of Pittsburgh
+"Antonio ""TJ"" Socarras",INF/P,6' 0'',175 lb,Management,Pittsburgh Panthers,University Of Pittsburgh
+Eddie Smink,RHP,6' 3'',210 lb,Supply Chain Management,Pittsburgh Panthers,University Of Pittsburgh
+Lorenzo Carrier,OF,6' 3'',195 lb,Psychology,Pittsburgh Panthers,University Of Pittsburgh
+Freddy Beruvides Jr.,LHP,6' 0'',200 lb,Computer Engineering,Pittsburgh Panthers,University Of Pittsburgh
+Drew Lafferty,RHP,6' 0'',198 lb,Physics,Pittsburgh Panthers,University Of Pittsburgh
+Chase Kriebel,LHP,6' 2'',185 lb,Environmental Science,Pittsburgh Panthers,University Of Pittsburgh
+Gavin Miller,INF,6' 2'',210 lb,Statistics,Pittsburgh Panthers,University Of Pittsburgh
+Antonio Doganiero,RHP,6' 3'',195 lb,Marketing Analytics,Pittsburgh Panthers,University Of Pittsburgh
+David Leslie,RHP,6' 5'',240 lb,Criminal Justice,Pittsburgh Panthers,University Of Pittsburgh
+Jordan Jacob,INF,6' 3'',220 lb,Kinesiology,Pittsburgh Panthers,University Of Pittsburgh
+Vincent Spizzoucco,LHP,6' 1'',225 lb,Human Resource Management,Pittsburgh Panthers,University Of Pittsburgh
+Carter Dierdorf,INF,6' 5'',215 lb,Civil Engineering,Pittsburgh Panthers,University Of Pittsburgh
+Kayden Faulcon,RHP,5' 10'',170 lb,Operations Management,Pittsburgh Panthers,University Of Pittsburgh
+Zach Walsh,OF,6' 0'',175 lb,Information Technology,Pittsburgh Panthers,University Of Pittsburgh
+Nolan Behm,INF,6' 1'',170 lb,Applied Mathematics,Pittsburgh Panthers,University Of Pittsburgh
+Michael Savarese,RHP,6' 0'',200 lb,Economics,Pittsburgh Panthers,University Of Pittsburgh
+Ben Asmussen,RHP,6' 1'',198 lb,Media Studies,Pittsburgh Panthers,University Of Pittsburgh
+Brandon Reiter,LHP,6' 3'',195 lb,Management Information Systems,Pittsburgh Panthers,University Of Pittsburgh
+Daniel McAuliff,RHP,6' 5'',205 lb,Public Health,Pittsburgh Panthers,University Of Pittsburgh
+Andrew Luczak,RHP,5' 9'',180 lb,Finance,Pittsburgh Panthers,University Of Pittsburgh
+Isaac Terhune,C,6' 5'',195 lb,Data Analytics,Pittsburgh Panthers,University Of Pittsburgh
+Jackson Cooke,C/INF,6' 2'',200 lb,Data Analytics,Pittsburgh Panthers,University Of Pittsburgh
+Masa Chilcutt,C,"5'7""",170 lb,Sports Management,Rice Owls,Rice University
+Cole Green,INF,"6'0""",175 lb,Business Administration,Rice Owls,Rice University
+JC Davis,INF,"5'11""",175 lb,Computer Science,Rice Owls,Rice University
+Caden Baker,OF,"5'7""",162 lb,Marketing,Rice Owls,Rice University
+Ian Melendez,INF,"5'10""",10 lb,Exercise Science,Rice Owls,Rice University
+LJ Layhew,C,"5'8""",205 lb,Finance,Rice Owls,Rice University
+Michael Zito,INF,"6'1""",192 lb,Mechanical Engineering,Rice Owls,Rice University
+Kutter-Gage Webb,INF,"5'11""",211 lb,Criminal Justice,Rice Owls,Rice University
+Trey Duffield,OF,"6'3""",229 lb,Communications,Rice Owls,Rice University
+Colin Robson,OF,"6'2""",185 lb,Biology,Rice Owls,Rice University
+Austin Eppley,RHP/UT,"6'1""",207 lb,Health Sciences,Rice Owls,Rice University
+Lorenzo Rios,C,"6'2""",205 lb,Information Systems,Rice Owls,Rice University
+Garet Boehm,INF,"6'3""",215 lb,Accounting,Rice Owls,Rice University
+Matt Zatopek,RHP,"6'3""",210 lb,Economics,Rice Owls,Rice University
+Paul Smith,1B/C,"5'11""",211 lb,Data Science,Rice Owls,Rice University
+Ethan Sanders,RHP/INF,"6'1""",200 lb,International Business,Rice Owls,Rice University
+Aric Anderson,C,"6'0""",205 lb,Political Science,Rice Owls,Rice University
+Gunnett Carlson,INF,"5'10""",210 lb,Communications,Rice Owls,Rice University
+Tobias Motley,INF/OF,"6'2""",201 lb,Management,Rice Owls,Rice University
+Tanner Wiggins,RHP,"6'2""",189 lb,Supply Chain Management,Rice Owls,Rice University
+Jacob Devenny,OF,"5'11""",211 lb,Psychology,Rice Owls,Rice University
+Ryland Urbanczyk,RHP,"6'1""",220 lb,Computer Engineering,Rice Owls,Rice University
+Ethan Atchley,RHP,"6'0""",180 lb,Physics,Rice Owls,Rice University
+Mason Ashlock,OF,"6'2""",215 lb,Environmental Science,Rice Owls,Rice University
+Landon West,C,"6'3""",213 lb,Statistics,Rice Owls,Rice University
+Logan Voelz,RHP,"6'1""",203 lb,Marketing Analytics,Rice Owls,Rice University
+D.C. Brown,LHP,"6'3""",220 lb,Criminal Justice,Rice Owls,Rice University
+Marco Fuentes,RHP,"6'2""",210 lb,Kinesiology,Rice Owls,Rice University
+Ty Thames,RHP,"6'3""",214 lb,Human Resource Management,Rice Owls,Rice University
+Nolan Roycraft,LHP,"6'5""",226 lb,Civil Engineering,Rice Owls,Rice University
+Anthony Diaz,LHP,"6'2""",205 lb,Operations Management,Rice Owls,Rice University
+Brayden Sharp,OF/LHP,"6'2""",171 lb,Information Technology,Rice Owls,Rice University
+Sullivan Brackin,RHP,"6'5""",220 lb,Applied Mathematics,Rice Owls,Rice University
+Jax Traeger,RHP,"6'1""",215 lb,Economics,Rice Owls,Rice University
+Jackson Mayo,LHP,"6'2""",175 lb,Media Studies,Rice Owls,Rice University
+Carson Kuhn,LHP,"6'0""",185 lb,Management Information Systems,Rice Owls,Rice University
+Jeremiah Arnett,RHP,"6'4""",215 lb,Public Health,Rice Owls,Rice University
+Landis Davila,OF,"6'3""",200 lb,Finance,Rice Owls,Rice University
+Zachary Daigre,OF,"5'9""",155 lb,Data Analytics,Rice Owls,Rice University
+Zachary Fetchel,RHP,"6'3""",173 lb,Data Analytics,Rice Owls,Rice University
+Hiram Bocachica Jr.,INF,"5'7""",155 lb,Major,Rice Owls,Rice University
+Trey Dooley,RHP,"6'1""",200 lb,Sports Management,Rice Owls,Rice University
+Robert Fernandez,RHP,"6'0""",214 lb,Business Administration,Rice Owls,Rice University
+Ty Baker,RHP,"6'4""",230 lb,Computer Science,Rice Owls,Rice University
+Jackson Blank,RHP,"6'2""",208 lb,Marketing,Rice Owls,Rice University
